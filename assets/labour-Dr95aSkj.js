@@ -1,0 +1,1 @@
+var e=`/assets/labour-D_fFTmTl.jpg`;export{e as t};
